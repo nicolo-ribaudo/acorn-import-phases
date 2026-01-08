@@ -1,4 +1,4 @@
-# Support for `import defer` and `import souce` in acorn
+# Support for `import defer` and `import source` in acorn
 
 ## Install
 
